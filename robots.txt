@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://licanhua.github.io/sitemap.xml
+Host: https://licanhua.github.io
