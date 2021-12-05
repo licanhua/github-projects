@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/github-projects`,
   plugins: [
     {
       resolve: "smooth-doc",
