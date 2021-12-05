@@ -3,7 +3,8 @@
 .gitconfig
 .cache
 .cache/*
-
+public
+public/*
 # User-specific files
 *.suo
 *.user

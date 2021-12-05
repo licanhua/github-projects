@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://licanhua.github.io/github-projects",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "start": "gatsby develop",
+    "clean": "gatsby clean"
   },
   "author": "",
   "license": "ISC",
