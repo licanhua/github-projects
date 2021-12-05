@@ -1,0 +1,19 @@
+{
+  "name": "github-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^3.14.6",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "smooth-doc": "^8.1.0"
+  }
+}

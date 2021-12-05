@@ -1,0 +1,32 @@
+import {
+  ScreenContainer,
+  NavLink,
+  HeroSection,
+  Hero,
+  HeroBody,
+  HeroTitle,
+  HeroTeaser,
+  HeroActionList,
+  HeroAction,
+} from "smooth-doc/components";
+import heroBackgroundImageURL from "../images/hero-background.png";
+
+<HeroSection>
+  <Hero backgroundImageURL={heroBackgroundImageURL}>
+    <HeroBody>
+      <HeroTitle>Canhua's GitHub Project HomePage</HeroTitle>
+      <HeroTeaser>Edit `pages/index.mdx` to personalize homepage.</HeroTeaser>
+      <HeroActionList>
+        <HeroAction>
+          <NavLink
+            
+            to="/docs/"
+          >
+            Browse Docs
+          </NavLink>
+        </HeroAction>
+      </HeroActionList>
+    </HeroBody>
+  </Hero>
+</HeroSection>
+
